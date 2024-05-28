@@ -1,0 +1,10 @@
+<!-- Interpolation (One-Way Binding) -->
+<input [(ngModel)]="username" placeholder="Enter your name">
+<p>Your name is: {{ username }}</p>
+
+<!-- Property Binding (One-Way Binding) -->
+<p [innerText]="msg"></p>
+
+<!-- Event Binding (One-Way Binding) -->
+<button (click)="onButtonClick()">Click me</button>
+<p>{{ message }}</p>
