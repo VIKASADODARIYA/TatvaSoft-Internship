@@ -1,0 +1,266 @@
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.json
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\BookAPI.exe
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\BookAPI.deps.json
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\BookAPI.runtimeconfig.json
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\BookAPI.dll
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\BookAPI.pdb
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\ServiceLayer.dll
+D:\.netcore\WebApplication2\WebApplication2\bin\Debug\net8.0\ServiceLayer.pdb
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.AssemblyReference.cache
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.AssemblyInfoInputs.cache
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.AssemblyInfo.cs
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.CoreCompileInputs.cache
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.BookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.BookAPI.props
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookAPI.props
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookAPI.props
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\BookAPI.styles.css
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.Up2Date
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.dll
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\BookAPI.dll
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.pdb
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\BookAPI.genruntimeconfig.cache
+D:\.netcore\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\BookAPI.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\appsettings.json
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\BookAPI.exe
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\BookAPI.deps.json
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\BookAPI.runtimeconfig.json
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\BookAPI.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\BookAPI.pdb
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ServiceLayer.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ServiceLayer.pdb
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.AssemblyReference.cache
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.AssemblyInfoInputs.cache
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.AssemblyInfo.cs
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.CoreCompileInputs.cache
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.BookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.BookAPI.props
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookAPI.props
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookAPI.props
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\BookAPI.styles.css
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.Up2Date
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.dll
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\refint\BookAPI.dll
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.pdb
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\BookAPI.genruntimeconfig.cache
+D:\.netcore\Book\WebApplication2\obj\Debug\net8.0\ref\BookAPI.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Npgsql.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\DataLayer.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\DataLayer.pdb
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Humanizer.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.CodeDom.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.netcore\Book\WebApplication2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\appsettings.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\BookAPI.exe
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\BookAPI.deps.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\BookAPI.runtimeconfig.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\BookAPI.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\BookAPI.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Humanizer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Npgsql.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.CodeDom.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\DataLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ServiceLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\DataLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\bin\Debug\net8.0\ServiceLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.AssemblyReference.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.AssemblyInfoInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.AssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.CoreCompileInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.BookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.BookAPI.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookAPI.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookAPI.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\BookAPI.styles.css
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.csproj.Up2Date
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\refint\BookAPI.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\BookAPI.genruntimeconfig.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\WebApplication2\obj\Debug\net8.0\ref\BookAPI.dll
