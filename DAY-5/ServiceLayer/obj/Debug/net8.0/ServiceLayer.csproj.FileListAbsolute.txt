@@ -1,0 +1,41 @@
+D:\.netcore\WebApplication2\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\.netcore\WebApplication2\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\.netcore\WebApplication2\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\.netcore\WebApplication2\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\.netcore\Book\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\.netcore\Book\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\.netcore\Book\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\.netcore\Book\ServiceLayer\bin\Debug\net8.0\DataLayer.dll
+D:\.netcore\Book\ServiceLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\.netcore\Book\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

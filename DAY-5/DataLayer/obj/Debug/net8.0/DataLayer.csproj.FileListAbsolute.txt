@@ -1,0 +1,28 @@
+D:\.netcore\Book\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\.netcore\Book\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\.netcore\Book\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\.netcore\Book\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\.netcore\Book\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Book\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
