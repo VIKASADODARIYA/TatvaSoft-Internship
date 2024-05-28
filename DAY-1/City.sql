@@ -17,7 +17,6 @@ VALUES
 	(3, 'Las Vegas'),
 	(3, 'New York'),
 	(4, 'Tokyo'),
-	(4, 'Kawasaki');
 
 delete from City
 ALTER SEQUENCE city_id_seq RESTART WITH 1;
