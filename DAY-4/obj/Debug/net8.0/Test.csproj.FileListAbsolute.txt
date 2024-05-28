@@ -1,0 +1,208 @@
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\appsettings.json
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Test.exe
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Test.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.build.Test.props
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test.props
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test.props
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\scopedcss\bundle\Test.styles.css
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.csproj.Up2Date
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.dll
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\Code\.NET\Test\Test\obj\Debug\net8.0\ref\Test.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Humanizer.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Npgsql.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\System.CodeDom.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\.NET\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\appsettings.Development.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\appsettings.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Test.exe
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Test.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Humanizer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Npgsql.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\System.CodeDom.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.build.Test.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test.props
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\scopedcss\bundle\Test.styles.css
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.csproj.Up2Date
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\Test\Test\obj\Debug\net8.0\ref\Test.dll
