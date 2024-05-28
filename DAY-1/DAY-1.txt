@@ -1,1 +1,3 @@
-Day-1
+Day-1 Task:
+
+On the first day of the internship program, we delved into the fundamentals of PostgreSQL using the pgAdmin tool. The day began with an introduction to database creation, followed by practical exercises on creating tables such as `user`, `userdetails`, `userskills`, `missions`, `missionskill`, `missionapplication`, `city`, `country`, and `missiontheme`. We then proceeded to perform basic data manipulation tasks: inserting, updating, and deleting records within these tables. Additionally, we explored the use of sub-queries to retrieve specific data, enhancing our understanding of complex query structures. This hands-on experience provided a solid foundation in database management and SQL operations, crucial for efficient data handling and manipulation in real-world applications.
