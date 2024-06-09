@@ -1,0 +1,45 @@
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll

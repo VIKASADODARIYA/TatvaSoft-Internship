@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5Hy6aYhzvk=",
+  "success": true,
+  "projectFilePath": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\Business_logic_Layer\\Business_logic_Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.relational.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.memory.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencyinjection.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.3.24172.9\\microsoft.extensions.logging.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.logging.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.3.24172.9\\microsoft.extensions.options.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.3.24172.9\\microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.0.3\\microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.0.3\\microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.0-preview.3\\npgsql.entityframeworkcore.postgresql.9.0.0-preview.3.nupkg.sha512",
+    "C:\\Users\\adoda\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.1\\system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
