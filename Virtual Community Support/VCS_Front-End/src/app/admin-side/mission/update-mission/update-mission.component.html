@@ -1,0 +1,198 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+  <div class="content">
+    <app-header></app-header>
+    <div class="info">
+      <div class="card">
+        <div class="card-header">
+          Update Mission
+        </div>
+        <div class="card-body">
+          <form [formGroup]="editMissionForm">
+            <div>
+              <div class="row"><input type="hidden" formControlName="id">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Country</label>
+                  <select class="form-select" (change)="CityList($event)" formControlName="countryId">
+                    <option *ngFor="let item of countryList" value="{{item.id}}"> {{item.countryName}}</option>
+                  </select>
+                  <span class="text-danger" *ngIf="countryId.invalid && (countryId.touched || formValid)">
+                    Please Select Country
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">City</label>
+                  <select class="form-select" formControlName="cityId">
+                    <option value="">Select City</option>
+                    <option *ngFor="let item of cityList" value="{{item.id}}">{{item.cityName}}</option>
+                  </select>
+                  <span class="text-danger" *ngIf="cityId.invalid && (cityId.touched || formValid)">
+                    Please Select City
+                  </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Title</label>
+                  <input type="text" class="form-control" formControlName="missionTitle"
+                    placeholder="Enter mission title">
+                  <span class="text-danger" *ngIf="missionTitle.invalid && (missionTitle.touched || formValid)">
+                    Please Enter Mission Title
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Theme</label>
+                  <select class="form-select" formControlName="missionThemeId">
+                    <option *ngFor="let item of missionThemeList" value="{{item.id}}">{{item.themeName}}</option>
+                  </select>
+                  <span class="text-danger" *ngIf="missionThemeId.invalid && (missionThemeId.touched || formValid)">
+                    Please Select Mission Theme
+                  </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Description</label>
+                  <textarea class="form-control" row="3" placeholder="Enter your message"
+                    formControlName="missionDescription"></textarea>
+                  <span class="text-danger"
+                    *ngIf="missionDescription.invalid && (missionDescription.touched || formValid)">
+                    Please Enter Mission Description
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">Total seats</label>
+                  <input type="number" class="form-control" placeholder="Enter total seets"
+                    formControlName="totalSheets">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Start Date</label>
+                  <input type="date" placeholder="Select StartDate" formControlName="startDate" class="form-control">
+                  <span class="text-danger" *ngIf="startDate.invalid && (startDate.touched || formValid)">
+                    Please Select StartDate
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">End Date</label>
+                  <input type="date" placeholder="Select EndDate" formControlName="endDate" class="form-control">
+                  <span class="text-danger" *ngIf="endDate.invalid && (endDate.touched || formValid)">
+                    Please Select EndDate
+                  </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Images</label>
+                  <div class="dropZone">
+                    <div class="text-wrapper">
+                      <div style="text-align: center;">
+                        <img src="assets/Img/drag-and-drop.png" alt="No Image" (click)="selectImage.click()"
+                          style="cursor: pointer;">
+                        <input type="file" class="form-control" multiple #selectImage style="display: none;"
+                          formControlName="missionImages" (change)="OnSelectedImage($event)">
+                      </div>
+                    </div>
+                  </div>
+                  <span class="text-danger" *ngIf="missionImages.invalid && (missionImages.touched || formValid)">
+                    Please Select Image
+                  </span>
+                  <div class="col-sm-1 pt-2" *ngFor="let items of imageListArray">
+                    <img src="{{items}}"
+                      style="width:95px;max-width: 95px important;height:95px;max-height: 95px !important;"
+                      onerror="this.src='assets/NoImg.png'" alt="" class="img-thumbnail position-relative">
+                    <span style="position:relative;"><button class="btn btnremove btn-outline-secondary"
+                        (click)="OnRemoveImage(items)">x</button></span>
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Skills</label>
+                  <select class="form-select skills" formControlName="missionSkillId" multiple="multiple">
+                    <option *ngFor="let item of missionSkillList" value="{{item.id}}">{{item.skillName}}</option>
+                  </select>
+                  <span class="text-danger" *ngIf="missionSkillId.invalid && (missionSkillId.touched || formValid)">
+                    Please Select Mission SKill
+                  </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Type</label>
+                  <input type="text" class="form-control" formControlName="missionType"
+                    placeholder="Enter mission type">
+                  <span class="text-danger" *ngIf="missionType.invalid && (missionType.touched || formValid)">
+                    Please Enter Mission Type
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Organisation Name</label>
+                  <input type="text" class="form-control" formControlName="missionOrganisationName"
+                    placeholder="Enter mission organisation name">
+                  <span class="text-danger"
+                    *ngIf="missionOrganisationName.invalid && (missionOrganisationName.touched || formValid)">
+                    Please Enter Mission Organisation Name
+                  </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Organisation Detail</label>
+                  <textarea class="form-control" row="3" placeholder="Enter organisation detail"
+                    formControlName="missionOrganisationDetail"></textarea>
+                  <span class="text-danger"
+                    *ngIf="missionOrganisationDetail.invalid && (missionOrganisationDetail.touched || formValid)">
+                    Please Enter Mission Organisation Detail
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                    <label class="col-form-label">Mission Registration Deadline</label>
+                    <input type="date" formControlName="registrationDeadline" class="form-control">
+                    <span class="text-danger" *ngIf="registrationDeadline.invalid && (registrationDeadline.touched || formValid)">
+                      Please Select Mission Registration Deadline
+                    </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Documents</label>
+                  <!-- <input type="file" class="form-control" formControlName="missionDocuments" (change)="OnSelectedDocument($event)"> -->
+                  <input type="file" class="form-control" formControlName="missionDocuments">
+                  <span class="text-danger" *ngIf="missionDocuments.invalid && (missionDocuments.touched || formValid)">
+                    Please Upload Mission Documents
+                  </span>
+                </div>
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Availability</label>
+                  <select class="form-select" formControlName="missionAvailability">
+                    <option value="">Select Availability</option>
+                    <option value="Closed">Closed</option>
+                    <option value="Available">Available</option>
+                  </select>
+                  <span class="text-danger"
+                    *ngIf="missionAvailability.invalid && (missionAvailability.touched || formValid)">
+                    Please Enter Mission Availability
+                  </span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <label class="col-form-label">Mission Video URL</label>
+                  <input type="text" class="form-control" formControlName="missionVideoUrl"
+                    placeholder="Enter mission video URL">
+                  <span class="text-danger" *ngIf="missionVideoUrl.invalid && (missionVideoUrl.touched || formValid)">
+                    Please Enter Mission Video URL
+                  </span>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="row justify-content-end mt-4">
+        <button class="btnCancel" (click)="OnCancel()"><span class="cancel">Cancel</span></button>
+        <button class="btnSave" (click)="OnSubmit()"><span class="save">Save</span></button>
+      </div>
+    </div>
+  </div>
+</div>
