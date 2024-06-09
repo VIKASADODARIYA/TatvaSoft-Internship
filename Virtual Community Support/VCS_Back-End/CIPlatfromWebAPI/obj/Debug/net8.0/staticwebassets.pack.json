@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\14_20240607003230.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\14_20240607003230.jpg"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\1_20240605132331.webp",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\1_20240605132331.webp"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\20_20240603151913.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\20_20240603151913.jpg"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240605131948.webp",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240605131948.webp"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\3_20240604235829.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\3_20240604235829.jpg"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\pexels-helena-lopes-1996332_20240606162004.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\pexels-helena-lopes-1996332_20240606162004.jpg"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\user_20240606220446.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\user_20240606220446.png"
+    },
+    {
+      "Id": "D:\\Study Meterial\\Tatvasoft Internship\\Virtual Cummunity Support\\VCS-Project\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\user_20240606220447.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\user_20240606220447.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
