@@ -1,0 +1,42 @@
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\HP\Documents\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\ruchi\source\repos\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+D:\Study Meterial\Tatvasoft Internship\Virtual Cummunity Support\VCS-Project\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
